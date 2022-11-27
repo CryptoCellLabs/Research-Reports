@@ -1,2 +1,2 @@
-# Research-Reports
-C2Labs Research Report
+# Research Reports
+ CryptoCell Labs Research Report
